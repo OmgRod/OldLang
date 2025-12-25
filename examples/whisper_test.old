@@ -1,0 +1,5 @@
+set greeting to "Hello, "
+set name to "World!"
+whisper greeting
+whisper name
+write "!"

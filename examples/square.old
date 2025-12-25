@@ -1,0 +1,6 @@
+for each i from 1 to 10 do
+    for each i from 1 to 20 do
+        whisper "="
+    end
+    write ""
+end
